@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CosmosRpiDevBoard")(type "KiCad")(uri "${KIPRJMOD}/CosmosRpiDevBoard.kicad_sym")(options "")(descr ""))
+)
