@@ -1,4 +1,4 @@
-26886135968895505
+26887898773934796
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -74750,8 +74750,15 @@ PCB_Antenna
 
 
 0
+2
+2
+PCB
+RPi_Hole
+
+
 0
-0
+1
+1
 PCB
 RT8010
 
