@@ -606,7 +606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PCB:PCB_Antenna"
+		(property "Footprint" "RF_Antenna:Texas_SWRA117D_2.4GHz_Right"
 			(at -0.508 -21.59 0)
 			(effects
 				(font
@@ -802,7 +802,7 @@
 						)
 					)
 				)
-				(number "1"
+				(number "2"
 					(effects
 						(font
 							(size 0 0)
@@ -820,7 +820,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "1"
 					(effects
 						(font
 							(size 0 0)
